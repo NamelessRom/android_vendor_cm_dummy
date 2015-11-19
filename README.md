@@ -1,0 +1,2 @@
+CyanogenMod dummy vendor
+=====
